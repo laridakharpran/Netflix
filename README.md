@@ -1,5 +1,5 @@
 # Netflix
-<img src="images/header-image.png">
+<img src="images/netflix.png">
 <p>
   <b>Overview</b><br>
 This is a simple Netflix clone built using HTML and CSS. The project mimics the design and layout of the Netflix homepage, featuring movie banners, categories, and a sleek, dark theme. The purpose of this project is to demonstrate proficiency in creating responsive web layouts using HTML for structure and CSS for styling.
